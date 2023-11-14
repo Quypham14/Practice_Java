@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e7ab39e-8c1f-4cb3-830f-b885f8a95e74" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spy_Detected_cf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_ADD_B_cf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ICPC_Balloons_cf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interesting_drink_cf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/New_Year_Transportation_cf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,30 +87,30 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Spy_Detected_cf">
-    <configuration name="Cheap_Travel_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cheap_Travel_cf" />
+  <component name="RunManager" selected="Application.Interesting_drink_cf">
+    <configuration name="A_ADD_B_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_ADD_B_cf" />
       <module name="App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Football_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Football_cf" />
+    <configuration name="ICPC_Balloons_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ICPC_Balloons_cf" />
       <module name="App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Police_Recruits_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Police_Recruits_cf" />
+    <configuration name="Interesting_drink_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interesting_drink_cf" />
       <module name="App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Puzzles_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Puzzles_cf" />
+    <configuration name="New_Year_Transportation_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="New_Year_Transportation_cf" />
       <module name="App" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interesting_drink_cf" />
+        <item itemvalue="Application.A_ADD_B_cf" />
+        <item itemvalue="Application.ICPC_Balloons_cf" />
+        <item itemvalue="Application.New_Year_Transportation_cf" />
         <item itemvalue="Application.Spy_Detected_cf" />
-        <item itemvalue="Application.Cheap_Travel_cf" />
-        <item itemvalue="Application.Football_cf" />
-        <item itemvalue="Application.Police_Recruits_cf" />
-        <item itemvalue="Application.Puzzles_cf" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +153,8 @@
       <workItem from="1699694147090" duration="6598000" />
       <workItem from="1699715608980" duration="5176000" />
       <workItem from="1699799069633" duration="1000000" />
-      <workItem from="1699877963252" duration="1411000" />
+      <workItem from="1699877963252" duration="6949000" />
+      <workItem from="1699929182180" duration="5318000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -173,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699799235273</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1699879598443</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699879598443</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
