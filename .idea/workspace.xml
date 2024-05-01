@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e7ab39e-8c1f-4cb3-830f-b885f8a95e74" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/A_ADD_B_cf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ICPC_Balloons_cf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interesting_drink_cf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/New_Year_Transportation_cf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Restoring_Three_Numbers_cf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restoring_Three_Numbers_cf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,32 +63,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/Practice_Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/App/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/java/Practice_Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/java/App/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.Interesting_drink_cf">
+}]]></component>
+  <component name="RunManager" selected="Application.Restoring_Three_Numbers_cf">
     <configuration name="A_ADD_B_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_ADD_B_cf" />
       <module name="App" />
@@ -116,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spy_Detected_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Spy_Detected_cf" />
+    <configuration name="Restoring_Three_Numbers_cf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Restoring_Three_Numbers_cf" />
       <module name="App" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Restoring_Three_Numbers_cf" />
         <item itemvalue="Application.Interesting_drink_cf" />
         <item itemvalue="Application.A_ADD_B_cf" />
         <item itemvalue="Application.ICPC_Balloons_cf" />
         <item itemvalue="Application.New_Year_Transportation_cf" />
-        <item itemvalue="Application.Spy_Detected_cf" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +156,17 @@
       <workItem from="1699715608980" duration="5176000" />
       <workItem from="1699799069633" duration="1000000" />
       <workItem from="1699877963252" duration="6949000" />
-      <workItem from="1699929182180" duration="5318000" />
+      <workItem from="1699929182180" duration="7866000" />
+      <workItem from="1700034438146" duration="418000" />
+      <workItem from="1700383838844" duration="1954000" />
+      <workItem from="1701782135546" duration="34000" />
+      <workItem from="1704614487122" duration="25000" />
+      <workItem from="1706289484019" duration="611000" />
+      <workItem from="1714071161458" duration="28000" />
+      <workItem from="1714072022880" duration="64000" />
+      <workItem from="1714120669552" duration="16000" />
+      <workItem from="1714121748776" duration="192000" />
+      <workItem from="1714580407993" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -180,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699879598443</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1699934876565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699934876565</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
